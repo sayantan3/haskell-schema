@@ -1,5 +1,5 @@
 ![Haskell](https://upload.wikimedia.org/wikipedia/commons/2/2b/Haskell-logo.png)
-This project aims to writs a Scheme using Haskell.
+This project aims to write a Scheme using Haskell.
 
 It follows the [Wikipedia link](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 
